@@ -1,0 +1,7 @@
+#Fri Mar 24 12:12:06 JST 2017
+base.0=/Users/miyuu/AndroidStudioProjects/CSVTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_211fcc8e945edd690738aa4bcc292398899255cc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/miyuu/AndroidStudioProjects/CSVTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f11c5fdcfffce93466e664227efcb23f9064c721/classes.dex
+base.1=/Users/miyuu/AndroidStudioProjects/CSVTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f11c5fdcfffce93466e664227efcb23f9064c721
+file.0=/Users/miyuu/AndroidStudioProjects/CSVTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_211fcc8e945edd690738aa4bcc292398899255cc/classes.dex
